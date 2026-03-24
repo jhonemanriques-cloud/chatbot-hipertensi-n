@@ -1,0 +1,36 @@
+﻿Nombre,Asignar,Ckecklist,Estado
+,,,Desarrollo
+Diseñar base de datos de signos vitales,Edwin Alexander Ospina Penna,"  1. Crear estructura de tablas
+  2. Definir campos para presión arterial y frecuencia cardíaca
+  3. Configurar validaciones de datos
+  4. Probar inserción de registros.",Pendiente
+Programar registro de presión arterial,Edwin Alexander Ospina Penna,"  1. Crear campo en la base de datos para presión arterial
+  2. Diseñar comando del chatbot para ingresar presión arterial
+  3. Validar formato de los datos 
+  4. Guardar registro en la base de datos
+  5. Probar ingreso y almacenamiento correcto.",Pendiente
+Implementar consulta de registros,Edwin Alexander Ospina Penna,"  1. Crear comando del chatbot para consultar registros
+  2. Programar búsqueda en la base de datos.
+  3. Mostrar resultados al paciente en formato claro.
+  4. Validar que solo se muestren sus propios registros.
+  5. Probar consultas con diferentes escenarios.",Pendiente
+Implementar eliminación de registros,jhone.manriques@autonoma.edu.co,"  1. Crear comando del chatbot para eliminar registro
+  2. Programar lógica de selección del registro a borrar
+  3. Validar permisos 
+  4. Actualizar base de datos tras la eliminación
+  5. Probar eliminación y verificar que no afecte otros datos.",Pendiente
+Acceso de médicos a registros,jhone.manriques@autonoma.edu.co,"  1. Crear rol de usuario médico en el sistema
+  2. Programar autenticación para médicos
+  3. Permitir acceso a registros de sus pacientes
+  4. Validar seguridad y privacidad de datos
+  5. Probar acceso con diferentes perfiles.",Pendiente
+Registro de observaciones médicas,jhone.manriques@autonoma.edu.co,"  1. Crear campo en la base de datos para observaciones
+  2. Diseñar comando del chatbot para que el médico registre observaciones
+  3. Validar que solo médicos puedan usar este comando
+  4. Guardar observaciones vinculadas al paciente
+  5. Probar ingreso y visualización de observaciones.",Pendiente
+Realizar pruebas del sistema,jhone.manriques@autonoma.edu.co,"  1. Diseñar casos de prueba para cada funcionalidad
+  2. Ejecutar pruebas unitarias 
+  3. Ejecutar pruebas integrales 
+  4. Documentar errores encontrados
+  5. Corregir errores y volver a probar.",Pendiente

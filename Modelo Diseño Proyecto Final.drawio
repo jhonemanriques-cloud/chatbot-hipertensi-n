@@ -1,0 +1,122 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/29.6.1 Chrome/142.0.7444.265 Electron/39.8.0 Safari/537.36" version="29.6.1">
+  <diagram name="Página-1" id="mEvw_XT-au-IpX61W7Lo">
+    <mxGraphModel dx="1281" dy="626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="nyCmJLA64C4IaxVv0hxD-1" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="520" width="520" x="200" y="80" as="geometry" />
+        </mxCell>
+        <object label="Paciente" id="nyCmJLA64C4IaxVv0hxD-2">
+          <mxCell parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1">
+            <mxGeometry height="60" width="30" x="120" y="160" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="nyCmJLA64C4IaxVv0hxD-6" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Paciente" vertex="1">
+          <mxGeometry height="60" width="30" x="120" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="nyCmJLA64C4IaxVv0hxD-7" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Registrar&amp;nbsp;&lt;div&gt;Signos Vitales&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="140" x="390" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="nyCmJLA64C4IaxVv0hxD-9" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Registrar&lt;div&gt;Presión Arterial&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="140" x="500" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="nyCmJLA64C4IaxVv0hxD-10" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Registrar&lt;div&gt;Registros&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="140" x="290" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="nyCmJLA64C4IaxVv0hxD-11" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Registrar&lt;div&gt;Saturación&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="140" x="500" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="nyCmJLA64C4IaxVv0hxD-12" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Registrar&lt;div&gt;Temperatura&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="140" x="290" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="nyCmJLA64C4IaxVv0hxD-13" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Eliminar&lt;div&gt;Registros&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="140" x="500" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="nyCmJLA64C4IaxVv0hxD-14" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Consultar&lt;div&gt;Registros&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="140" x="290" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="nyCmJLA64C4IaxVv0hxD-16" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="370" y="170" />
+            </Array>
+            <mxPoint x="160" y="200" as="sourcePoint" />
+            <mxPoint x="370" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nyCmJLA64C4IaxVv0hxD-17" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="280" y="270" />
+            </Array>
+            <mxPoint x="160" y="200" as="sourcePoint" />
+            <mxPoint x="280" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nyCmJLA64C4IaxVv0hxD-18" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="290" y="395" />
+            </Array>
+            <mxPoint x="160" y="200" as="sourcePoint" />
+            <mxPoint x="290" y="395" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nyCmJLA64C4IaxVv0hxD-19" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="290" y="523" />
+            </Array>
+            <mxPoint x="160" y="480" as="sourcePoint" />
+            <mxPoint x="290" y="523" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nyCmJLA64C4IaxVv0hxD-20" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="290" y="420" />
+            </Array>
+            <mxPoint x="160" y="480" as="sourcePoint" />
+            <mxPoint x="290" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <object label="Médico" id="nyCmJLA64C4IaxVv0hxD-21">
+          <mxCell parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1">
+            <mxGeometry height="60" width="30" x="800" y="160" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="nyCmJLA64C4IaxVv0hxD-22" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Administrador" vertex="1">
+          <mxGeometry height="60" width="30" x="800" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="nyCmJLA64C4IaxVv0hxD-23" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="640" y="260" />
+            </Array>
+            <mxPoint x="790" y="200" as="sourcePoint" />
+            <mxPoint x="640" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nyCmJLA64C4IaxVv0hxD-24" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="649" y="406" />
+            </Array>
+            <mxPoint x="790" y="490" as="sourcePoint" />
+            <mxPoint x="649" y="406" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nyCmJLA64C4IaxVv0hxD-26" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="650" y="530" />
+            </Array>
+            <mxPoint x="790" y="490" as="sourcePoint" />
+            <mxPoint x="650" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
